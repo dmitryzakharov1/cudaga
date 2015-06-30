@@ -1,0 +1,1 @@
+This project is being created to do research into using CUDA architecture to accelerate Genetic Algorithms. A byproduct of the research will be a library which can be adapted to solve various problems using Genetic Algorithms.
